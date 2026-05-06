@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260506193331CSKIG3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260506193331TG6KF6</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Ley de Hooke 3ESO </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto de Física y Química para 3º de ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Clara Calvo Garrido </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este recurso forma parte de una situación de aprendizaje sobre la ley de Hooke para 3º de ESO, en la que se integran metodologías activas y herramientas digitales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777886237478</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-2e7b74n9k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-2e7b74n9k</odePageId>
+      <odeBlockId>block-1777888874102-fhc11qjn6</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-2e7b74n9k</odePageId>
+          <odeBlockId>block-1777888874102-fhc11qjn6</odeBlockId>
+          <odeIdeviceId>idevice-1777888874095-qub29lcpy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título del proyecto</strong><br />La fuerza invisible: explorando la Ley de Hooke</p>
+<p><strong>Centro de interés o temática</strong><br />El proyecto se centra en el estudio de la elasticidad y la ley de Hooke, analizando la relación entre la fuerza aplicada y la deformación de un muelle mediante el uso de simuladores digitales y herramientas tecnológicas.</p>
+<p><strong>Nivel al que va dirigido</strong><br />3º de ESO </p>
+<p><strong>Temporalización aproximada</strong><br />2 semanas (5-6 sesiones).</p>
+<p><strong>Materia o materias implicadas</strong><br />Física y Química<br />Matemáticas<br />Tecnología</p>
+<p><br /><strong>Idioma</strong><br />Castellano.</p>
+<p><strong>Descripción general</strong></p>
+<p>El alumnado trabajará en grupos para investigar la ley de Hooke a partir de situaciones reales que pueden representarse mediante relaciones entre fuerza y deformación, utilizando principalmente herramientas digitales y simuladores interactivos.</p>
+<p>Durante el proyecto deberán:</p>
+<p>Utilizar simuladores digitales para experimentar cómo varía la elongación de un muelle en función de la fuerza aplicada.<br />Representar los datos obtenidos mediante gráficas usando herramientas digitales como hojas de cálculo.<br />Interpretar las gráficas y relacionarlas con el comportamiento real de un muelle, identificando la proporcionalidad entre variables.<br />Analizar cómo influye la constante elástica en la deformación del material y comparar distintos escenarios virtuales.<br />Buscar, seleccionar y organizar información relevante sobre la ley de Hooke y justificar sus conclusiones de forma razonada.<br />Como producto final, elaborarán una presentación o informe digital en el que expliquen el comportamiento de un muelle en distintas condiciones, incluyendo las gráficas obtenidas, su interpretación y las conclusiones del análisis.</p>
+<p>Las actividades estarán secuenciadas de forma progresiva, comenzando con la exploración guiada del simulador, pasando por el análisis de datos y finalizando con la comunicación de resultados. Todo el proceso se integrará en un entorno digital (como eXeLearning), con recursos, guías y apoyos adaptados al alumnado para facilitar el aprendizaje autónomo y el uso crítico de la información.</p>
+<p><br /><strong>Justificación</strong><br />Este proyecto parte de la reflexión realizada en la tarea anterior, en la que se detectaron dificultades tanto técnicas como pedagógicas en el uso de herramientas digitales para el aprendizaje de la ley de Hooke.</p>
+<p>En primer lugar, se ha observado que el alumnado presenta diferentes niveles de competencia digital, lo que en algunos casos genera dependencia del docente y dificultades para trabajar de forma autónoma con simuladores y herramientas digitales. Por ello, se incorporan estrategias para gestionar esta incertidumbre, como el uso guiado de los simuladores, instrucciones paso a paso, trabajo en parejas o pequeños grupos, y la previsión de alternativas cuando la tecnología no funcione correctamente.</p>
+<p>Además, se detectó que en ocasiones el uso de la tecnología se quedaba en un nivel más superficial, sin llegar a un análisis profundo de los resultados. En esta propuesta se prioriza la comprensión del fenómeno físico, la interpretación de gráficas y la relación entre variables, utilizando la tecnología como un medio para analizar datos y no como un fin en sí mismo.</p>
+<p>Por otro lado, esta unidad se ha diseñado a partir de la adaptación de experiencias previas en el aula y del intercambio de ideas con otros docentes, lo que ha permitido mejorar la organización de las actividades y ajustar el uso de recursos digitales a la realidad del centro.</p>
+<p>Asimismo, se han seleccionado e integrado diferentes recursos digitales como simuladores interactivos y herramientas de representación de datos, organizándolos de forma progresiva para facilitar el aprendizaje del alumnado y asegurar la coherencia del proceso.</p>
+<p>En definitiva, se trata de una propuesta que busca mejorar la práctica docente a partir de la reflexión sobre la experiencia, reducir la incertidumbre en el uso de la tecnología y favorecer un aprendizaje más significativo de la ley de Hooke, al mismo tiempo que se desarrolla la competencia digital del alumnado de forma progresiva y guiada.</p>
+<p><br /></p>
+<p>Documento original:</p>
+<p><a href="https://docs.google.com/document/d/10U2H3XHgAXXPPWNvOImByXWcCYkLdc3Ror5wPehBKqs/edit?usp=sharing" title="">https://docs.google.com/document/d/10U2H3XHgAXXPPWNvOImByXWcCYkLdc3Ror5wPehBKqs/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777888874095-qub29lcpy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título del proyecto</strong><br />La fuerza invisible: explorando la Ley de Hooke</p>\n<p><strong>Centro de interés o temática</strong><br />El proyecto se centra en el estudio de la elasticidad y la ley de Hooke, analizando la relación entre la fuerza aplicada y la deformación de un muelle mediante el uso de simuladores digitales y herramientas tecnológicas.</p>\n<p><strong>Nivel al que va dirigido</strong><br />3º de ESO </p>\n<p><strong>Temporalización aproximada</strong><br />2 semanas (5-6 sesiones).</p>\n<p><strong>Materia o materias implicadas</strong><br />Física y Química<br />Matemáticas<br />Tecnología</p>\n<p><br /><strong>Idioma</strong><br />Castellano.</p>\n<p><strong>Descripción general</strong></p>\n<p>El alumnado trabajará en grupos para investigar la ley de Hooke a partir de situaciones reales que pueden representarse mediante relaciones entre fuerza y deformación, utilizando principalmente herramientas digitales y simuladores interactivos.</p>\n<p>Durante el proyecto deberán:</p>\n<p>Utilizar simuladores digitales para experimentar cómo varía la elongación de un muelle en función de la fuerza aplicada.<br />Representar los datos obtenidos mediante gráficas usando herramientas digitales como hojas de cálculo.<br />Interpretar las gráficas y relacionarlas con el comportamiento real de un muelle, identificando la proporcionalidad entre variables.<br />Analizar cómo influye la constante elástica en la deformación del material y comparar distintos escenarios virtuales.<br />Buscar, seleccionar y organizar información relevante sobre la ley de Hooke y justificar sus conclusiones de forma razonada.<br />Como producto final, elaborarán una presentación o informe digital en el que expliquen el comportamiento de un muelle en distintas condiciones, incluyendo las gráficas obtenidas, su interpretación y las conclusiones del análisis.</p>\n<p>Las actividades estarán secuenciadas de forma progresiva, comenzando con la exploración guiada del simulador, pasando por el análisis de datos y finalizando con la comunicación de resultados. Todo el proceso se integrará en un entorno digital (como eXeLearning), con recursos, guías y apoyos adaptados al alumnado para facilitar el aprendizaje autónomo y el uso crítico de la información.</p>\n<p><br /><strong>Justificación</strong><br />Este proyecto parte de la reflexión realizada en la tarea anterior, en la que se detectaron dificultades tanto técnicas como pedagógicas en el uso de herramientas digitales para el aprendizaje de la ley de Hooke.</p>\n<p>En primer lugar, se ha observado que el alumnado presenta diferentes niveles de competencia digital, lo que en algunos casos genera dependencia del docente y dificultades para trabajar de forma autónoma con simuladores y herramientas digitales. Por ello, se incorporan estrategias para gestionar esta incertidumbre, como el uso guiado de los simuladores, instrucciones paso a paso, trabajo en parejas o pequeños grupos, y la previsión de alternativas cuando la tecnología no funcione correctamente.</p>\n<p>Además, se detectó que en ocasiones el uso de la tecnología se quedaba en un nivel más superficial, sin llegar a un análisis profundo de los resultados. En esta propuesta se prioriza la comprensión del fenómeno físico, la interpretación de gráficas y la relación entre variables, utilizando la tecnología como un medio para analizar datos y no como un fin en sí mismo.</p>\n<p>Por otro lado, esta unidad se ha diseñado a partir de la adaptación de experiencias previas en el aula y del intercambio de ideas con otros docentes, lo que ha permitido mejorar la organización de las actividades y ajustar el uso de recursos digitales a la realidad del centro.</p>\n<p>Asimismo, se han seleccionado e integrado diferentes recursos digitales como simuladores interactivos y herramientas de representación de datos, organizándolos de forma progresiva para facilitar el aprendizaje del alumnado y asegurar la coherencia del proceso.</p>\n<p>En definitiva, se trata de una propuesta que busca mejorar la práctica docente a partir de la reflexión sobre la experiencia, reducir la incertidumbre en el uso de la tecnología y favorecer un aprendizaje más significativo de la ley de Hooke, al mismo tiempo que se desarrolla la competencia digital del alumnado de forma progresiva y guiada.</p>\n<p><br /></p>\n<p>Documento original:</p>\n<p><a href=\"https://docs.google.com/document/d/10U2H3XHgAXXPPWNvOImByXWcCYkLdc3Ror5wPehBKqs/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/10U2H3XHgAXXPPWNvOImByXWcCYkLdc3Ror5wPehBKqs/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-2e7b74n9k</odePageId>
+      <odeBlockId>block-1777889179640-gi0zblqsm</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-2e7b74n9k</odePageId>
+          <odeBlockId>block-1777889179640-gi0zblqsm</odeBlockId>
+          <odeIdeviceId>idevice-1777889179636-hm9rbbkpl</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Ley de Hooke 3ESO </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este recurso forma parte de una situación de aprendizaje sobre la ley de Hooke para 3º de ESO, en la que se integran metodologías activas y herramientas digitales</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Clara Calvo Garrido </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-onygo3wdq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>seguridad-digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-onygo3wdq</odePageId>
+      <odeBlockId>block-1777889373683-zdlbsbbek</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-onygo3wdq</odePageId>
+          <odeBlockId>block-1777889373683-zdlbsbbek</odeBlockId>
+          <odeIdeviceId>idevice-1777889373675-m3d91hg59</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777889373675-m3d91hg59" title="" href="{{context_path}}/content/resources/buen uso de la identidad digital.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/buen uso de la identidad digital.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777889373675-m3d91hg59","img_0":{"img":"{{context_path}}/content/resources/buen uso de la identidad digital.jpg","thumbnail":"{{context_path}}/content/resources/buen uso de la identidad digital.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-onygo3wdq</odePageId>
+      <odeBlockId>block-1777889502256-st0dcfqqf</odeBlockId>
+      <blockName>Seguridad digital del proyecto</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-onygo3wdq</odePageId>
+          <odeBlockId>block-1777889502256-st0dcfqqf</odeBlockId>
+          <odeIdeviceId>idevice-1777889502253-0h3r0fibk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante este proyecto el alumnado trabajará con herramientas digitales, por lo que es importante garantizar un uso seguro, responsable y respetuoso de la tecnología.</p>
+<p>Se incluyen recomendaciones sobre:</p>
+<p>- Protección de datos personales<br />- Uso responsable de la identidad digital<br />- Respeto en la comunicación online<br />- Uso adecuado de imágenes y contenidos con licencia<br /></p>
+<p>El alumnado deberá aplicar estas normas durante el desarrollo del proyecto, especialmente al trabajar con simuladores, herramientas colaborativas y la elaboración del producto final.</p>
+<p>Te dejo el enlace de Canva:</p>
+<p><a href="https://canva.link/clkqdeg97wkbz3t" title="Seguridad digital ">https://canva.link/clkqdeg97wkbz3t</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777889502253-0h3r0fibk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante este proyecto el alumnado trabajará con herramientas digitales, por lo que es importante garantizar un uso seguro, responsable y respetuoso de la tecnología.</p>\n<p>Se incluyen recomendaciones sobre:</p>\n<p>- Protección de datos personales<br />- Uso responsable de la identidad digital<br />- Respeto en la comunicación online<br />- Uso adecuado de imágenes y contenidos con licencia<br /></p>\n<p>El alumnado deberá aplicar estas normas durante el desarrollo del proyecto, especialmente al trabajar con simuladores, herramientas colaborativas y la elaboración del producto final.</p>\n<p>Te dejo el enlace de Canva:</p>\n<p><a href=\"https://canva.link/clkqdeg97wkbz3t\" title=\"Seguridad digital \">https://canva.link/clkqdeg97wkbz3t</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-mbwfoozz2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>producto-final-</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-mbwfoozz2</odePageId>
+      <odeBlockId>block-1777889893671-ysljep7gl</odeBlockId>
+      <blockName>Producto final del proyecto</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-mbwfoozz2</odePageId>
+          <odeBlockId>block-1777889893671-ysljep7gl</odeBlockId>
+          <odeIdeviceId>idevice-1777889893654-q13tc3dic</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta situación de aprendizaje consiste en la elaboración de una presentación o póster digital en Canva, en el que el alumnado explicará el comportamiento de un muelle a partir de la ley de Hooke.</p>
+<p><strong>El trabajo final deberá contener:</strong></p>
+<ul>
+<li>Explicación del fenómeno físico (ley de Hooke)</li>
+<li>Datos obtenidos a partir de simuladores digitales</li>
+<li>Representación de los datos mediante gráficas</li>
+<li>Interpretación de las gráficas y relación con la teoría</li>
+<li>Conclusiones del análisis realizado</li>
+</ul>
+<p>Durante el desarrollo del producto final se utilizarán:</p>
+<ul>
+<li>Simuladores digitales para la experimentación</li>
+<li>Hojas de cálculo (Excel o similar) para organizar datos y crear gráficas</li>
+<li>Canva para la presentación final del trabajo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777889893654-q13tc3dic","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta situación de aprendizaje consiste en la elaboración de una presentación o póster digital en Canva, en el que el alumnado explicará el comportamiento de un muelle a partir de la ley de Hooke.</p>\n<p><strong>El trabajo final deberá contener:</strong></p>\n<ul>\n<li>Explicación del fenómeno físico (ley de Hooke)</li>\n<li>Datos obtenidos a partir de simuladores digitales</li>\n<li>Representación de los datos mediante gráficas</li>\n<li>Interpretación de las gráficas y relación con la teoría</li>\n<li>Conclusiones del análisis realizado</li>\n</ul>\n<p>Durante el desarrollo del producto final se utilizarán:</p>\n<ul>\n<li>Simuladores digitales para la experimentación</li>\n<li>Hojas de cálculo (Excel o similar) para organizar datos y crear gráficas</li>\n<li>Canva para la presentación final del trabajo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-tmqzki022</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos alumnado</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>recursos-alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-tmqzki022</odePageId>
+      <odeBlockId>block-1777890127604-jt8hk1buu</odeBlockId>
+      <blockName>Recurso alumnado</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-tmqzki022</odePageId>
+          <odeBlockId>block-1777890127604-jt8hk1buu</odeBlockId>
+          <odeIdeviceId>idevice-1777890127602-rjq8fher2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo del proyecto, se ha creado un espacio de curación de contenidos en Padlet donde el alumnado podrá acceder a los recursos necesarios para trabajar la ley de Hooke.</p>
+<p>En este tablero se incluyen:</p>
+<ul>
+<li>Simuladores digitales para la experimentación</li>
+<li>Vídeos explicativos sobre la ley de Hooke</li>
+<li>Guías paso a paso para la recogida de datos</li>
+<li>Recursos para la elaboración de gráficas</li>
+<li>Ejemplos de productos finales</li>
+</ul>
+<p>Este recurso tiene como finalidad facilitar el acceso a información seleccionada y organizada, evitando la sobrecarga de información y ayudando al alumnado a trabajar de forma autónoma y guiada.</p>
+<p>Además, permite que el alumnado aprenda a seleccionar y utilizar información relevante para la resolución de un problema científico.</p>
+<p><a href="https://padlet.com/claracalvogarrido/mi-padlet-destacado-uuvio5wykavpbc1s" title="Padlet del alumnado ">https://padlet.com/claracalvogarrido/mi-padlet-destacado-uuvio5wykavpbc1s</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777890127602-rjq8fher2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo del proyecto, se ha creado un espacio de curación de contenidos en Padlet donde el alumnado podrá acceder a los recursos necesarios para trabajar la ley de Hooke.</p>\n<p>En este tablero se incluyen:</p>\n<ul>\n<li>Simuladores digitales para la experimentación</li>\n<li>Vídeos explicativos sobre la ley de Hooke</li>\n<li>Guías paso a paso para la recogida de datos</li>\n<li>Recursos para la elaboración de gráficas</li>\n<li>Ejemplos de productos finales</li>\n</ul>\n<p>Este recurso tiene como finalidad facilitar el acceso a información seleccionada y organizada, evitando la sobrecarga de información y ayudando al alumnado a trabajar de forma autónoma y guiada.</p>\n<p>Además, permite que el alumnado aprenda a seleccionar y utilizar información relevante para la resolución de un problema científico.</p>\n<p><a href=\"https://padlet.com/claracalvogarrido/mi-padlet-destacado-uuvio5wykavpbc1s\" title=\"Padlet del alumnado \">https://padlet.com/claracalvogarrido/mi-padlet-destacado-uuvio5wykavpbc1s</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-qxj9pf81i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos docentes</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>recuerdos-docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-qxj9pf81i</odePageId>
+      <odeBlockId>block-1777891172341-5c1a7bvyr</odeBlockId>
+      <blockName>Recurso docente</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-qxj9pf81i</odePageId>
+          <odeBlockId>block-1777891172341-5c1a7bvyr</odeBlockId>
+          <odeIdeviceId>idevice-1777891172323-ib5uh21d4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la preparación y desarrollo de esta situación de aprendizaje, se ha elaborado un espacio de curación de contenidos dirigido al profesorado.</p>
+<p>Este tablero reúne recursos seleccionados que facilitan la planificación, el seguimiento y la implementación del proyecto sobre la ley de Hooke.</p>
+<p>En este espacio se pueden encontrar:</p>
+<ul>
+<li>Simuladores y herramientas digitales para la experimentación</li>
+<li>Guías didácticas y explicaciones teóricas</li>
+<li>Recursos para la representación de datos y gráficas</li>
+<li>Ejemplos de actividades similares</li>
+<li>Tutoriales de herramientas digitales (Canva, hojas de cálculo, etc.)</li>
+</ul>
+<p>Este espacio tiene como finalidad apoyar la práctica docente, facilitando materiales organizados y seleccionados previamente para reducir el tiempo de búsqueda y mejorar la calidad del diseño de las actividades.</p>
+<p>Además, permite compartir y reutilizar recursos educativos de forma eficiente.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAdNYy1IAA41-5EVYwQ==" title="Enlace recurso docente">https://www.symbaloo.com/shared/AAAAAdNYy1IAA41-5EVYwQ==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777891172323-ib5uh21d4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la preparación y desarrollo de esta situación de aprendizaje, se ha elaborado un espacio de curación de contenidos dirigido al profesorado.</p>\n<p>Este tablero reúne recursos seleccionados que facilitan la planificación, el seguimiento y la implementación del proyecto sobre la ley de Hooke.</p>\n<p>En este espacio se pueden encontrar:</p>\n<ul>\n<li>Simuladores y herramientas digitales para la experimentación</li>\n<li>Guías didácticas y explicaciones teóricas</li>\n<li>Recursos para la representación de datos y gráficas</li>\n<li>Ejemplos de actividades similares</li>\n<li>Tutoriales de herramientas digitales (Canva, hojas de cálculo, etc.)</li>\n</ul>\n<p>Este espacio tiene como finalidad apoyar la práctica docente, facilitando materiales organizados y seleccionados previamente para reducir el tiempo de búsqueda y mejorar la calidad del diseño de las actividades.</p>\n<p>Además, permite compartir y reutilizar recursos educativos de forma eficiente.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAdNYy1IAA41-5EVYwQ==\" title=\"Enlace recurso docente\">https://www.symbaloo.com/shared/AAAAAdNYy1IAA41-5EVYwQ==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-vg8t8szr6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades y criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>actividades-y-criterios-de-evaluacion</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-vg8t8szr6</odePageId>
+      <odeBlockId>block-1777966290759-studxmbv0</odeBlockId>
+      <blockName>Actividades y criterios de evaluación</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-vg8t8szr6</odePageId>
+          <odeBlockId>block-1777966290759-studxmbv0</odeBlockId>
+          <odeIdeviceId>idevice-1777966290737-cfa91mk6h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje, las diferentes actividades propuestas están diseñadas para desarrollar y evaluar competencias específicas de la materia, relacionándolas con criterios de evaluación concretos.</p>
+<p>A continuación, se muestra la relación entre las tareas realizadas por el alumnado y los criterios de evaluación trabajados:</p>
+<table border="1" height="1134" style="width: 96.7742%; border-style: dotted;">
+<tbody>
+<tr>
+<td style="width: 19.9924%; text-align: center;"></td>
+<td style="width: 19.9924%; text-align: center;"><strong> CRITERIO DE EVALUACIÓN</strong><br /></td>
+<td style="width: 19.9924%; text-align: center;"><strong>AGRUPAMIENTO</strong></td>
+<td style="width: 19.9924%; text-align: center;"><strong>TIEMPO APROXIMADO</strong></td>
+<td style="width: 19.9924%; text-align: center;"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9924%; text-align: center;">
+<p>Introducción y activación de conocimientos previos.</p>
+</td>
+<td style="width: 19.9924%; text-align: center;"><br /></td>
+<td style="width: 19.9924%; text-align: center;">Gran grupo </td>
+<td style="width: 19.9924%; text-align: center;">1 sesión </td>
+<td style="width: 19.9924%; text-align: center;">Vídeo Youtube</td>
+</tr>
+<tr>
+<td style="width: 19.9924%; text-align: center;">Exploración con simulador (ley de Hooke) </td>
+<td style="width: 19.9924%; text-align: center;">3.3. Poner en práctica las normas de uso de los espacios específicos de la ciencia, como el laboratorio de física y química, como medio de asegurar la salud propia y colectiva, la conservación sostenible del medioambiente y el cuidado de las instalaciones.</td>
+<td style="width: 19.9924%; text-align: center;">Parejas </td>
+<td style="width: 19.9924%; text-align: center;">1 sesión </td>
+<td style="width: 19.9924%; text-align: center;">Simulador Phet</td>
+</tr>
+<tr>
+<td style="width: 19.9924%; text-align: center;">Recogida de datos (tabla) </td>
+<td style="width: 19.9924%; text-align: center;">3.1. Emplear datos en diferentes formatos para interpretar y comunicar información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso lo más relevante para la resolución de un problema </td>
+<td style="width: 19.9924%; text-align: center;">Parejas </td>
+<td style="width: 19.9924%; text-align: center;">1 sesión </td>
+<td style="width: 19.9924%; text-align: center;">Excel</td>
+</tr>
+<tr>
+<td style="width: 19.9924%; text-align: center;">Representación gráfica (fuerza vs elongación) </td>
+<td style="width: 19.9924%; text-align: center;">3.1. Emplear datos en diferentes formatos para interpretar y comunicar información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso lo más relevante para la resolución de un problema </td>
+<td style="width: 19.9924%; text-align: center;">Parejas </td>
+<td style="width: 19.9924%; text-align: center;">1 sesión </td>
+<td style="width: 19.9924%; text-align: center;">Excel</td>
+</tr>
+<tr>
+<td style="width: 19.9924%; text-align: center;">Análisis y conclusiones (preguntas guiadas) </td>
+<td style="width: 19.9924%; text-align: center;">4.1. Utilizar recursos variados, tradicionales y digitales, mejorando el aprendizaje autónomo y para mejorar la interacción con otros miembros de la comunidad educativa, con respeto hacia docentes y estudiantes y analizando críticamente las aportaciones de cada participante.</td>
+<td style="width: 19.9924%; text-align: center;">Parejas </td>
+<td style="width: 19.9924%; text-align: center;">1 sesión </td>
+<td style="width: 19.9924%; text-align: center;">Documento Digital</td>
+</tr>
+<tr>
+<td style="width: 19.9924%; text-align: center;">Producto final: creación de póster o presentación </td>
+<td style="width: 19.9924%; text-align: center;">4.2 Trabajar de forma adecuada y versátil con medios variados, tradicionales y digitales, en la consulta de 
+<p>información y la creación de contenidos, seleccionando con criterio las fuentes más fiables y desechando las menos adecuadas para la mejora del aprendizaje propio y colectivo. </p>
+<p><br /></p>
+</td>
+<td style="width: 19.9924%; text-align: center;">Gran grupo </td>
+<td style="width: 19.9924%; text-align: center;">1 sesión </td>
+<td style="width: 19.9924%; text-align: center;">Canva </td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p>Esta organización permite evaluar no solo el producto final, sino también el proceso de aprendizaje del alumnado, teniendo en cuenta el uso de herramientas digitales, la interpretación de datos y el trabajo colaborativo.</p>
+<p><a href="https://docs.google.com/document/d/1AQ3PjXjPC87L-KKBZ9FBA5QJfiOH34CFSCCe8sq3uSU/edit?tab=t.0#heading=h.d3owelm5qoq0" title="Documento completo">https://docs.google.com/document/d/1AQ3PjXjPC87L-KKBZ9FBA5QJfiOH34CFSCCe8sq3uSU/edit?tab=t.0#heading=h.d3owelm5qoq0</a></p>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777966290737-cfa91mk6h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje, las diferentes actividades propuestas están diseñadas para desarrollar y evaluar competencias específicas de la materia, relacionándolas con criterios de evaluación concretos.</p>\n<p>A continuación, se muestra la relación entre las tareas realizadas por el alumnado y los criterios de evaluación trabajados:</p>\n<table border=\"1\" height=\"1134\" style=\"width: 96.7742%; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9924%; text-align: center;\"></td>\n<td style=\"width: 19.9924%; text-align: center;\"><strong> CRITERIO DE EVALUACIÓN</strong><br /></td>\n<td style=\"width: 19.9924%; text-align: center;\"><strong>AGRUPAMIENTO</strong></td>\n<td style=\"width: 19.9924%; text-align: center;\"><strong>TIEMPO APROXIMADO</strong></td>\n<td style=\"width: 19.9924%; text-align: center;\"><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9924%; text-align: center;\">\n<p>Introducción y activación de conocimientos previos.</p>\n</td>\n<td style=\"width: 19.9924%; text-align: center;\"><br /></td>\n<td style=\"width: 19.9924%; text-align: center;\">Gran grupo </td>\n<td style=\"width: 19.9924%; text-align: center;\">1 sesión </td>\n<td style=\"width: 19.9924%; text-align: center;\">Vídeo Youtube</td>\n</tr>\n<tr>\n<td style=\"width: 19.9924%; text-align: center;\">Exploración con simulador (ley de Hooke) </td>\n<td style=\"width: 19.9924%; text-align: center;\">3.3. Poner en práctica las normas de uso de los espacios específicos de la ciencia, como el laboratorio de física y química, como medio de asegurar la salud propia y colectiva, la conservación sostenible del medioambiente y el cuidado de las instalaciones.</td>\n<td style=\"width: 19.9924%; text-align: center;\">Parejas </td>\n<td style=\"width: 19.9924%; text-align: center;\">1 sesión </td>\n<td style=\"width: 19.9924%; text-align: center;\">Simulador Phet</td>\n</tr>\n<tr>\n<td style=\"width: 19.9924%; text-align: center;\">Recogida de datos (tabla) </td>\n<td style=\"width: 19.9924%; text-align: center;\">3.1. Emplear datos en diferentes formatos para interpretar y comunicar información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso lo más relevante para la resolución de un problema </td>\n<td style=\"width: 19.9924%; text-align: center;\">Parejas </td>\n<td style=\"width: 19.9924%; text-align: center;\">1 sesión </td>\n<td style=\"width: 19.9924%; text-align: center;\">Excel</td>\n</tr>\n<tr>\n<td style=\"width: 19.9924%; text-align: center;\">Representación gráfica (fuerza vs elongación) </td>\n<td style=\"width: 19.9924%; text-align: center;\">3.1. Emplear datos en diferentes formatos para interpretar y comunicar información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso lo más relevante para la resolución de un problema </td>\n<td style=\"width: 19.9924%; text-align: center;\">Parejas </td>\n<td style=\"width: 19.9924%; text-align: center;\">1 sesión </td>\n<td style=\"width: 19.9924%; text-align: center;\">Excel</td>\n</tr>\n<tr>\n<td style=\"width: 19.9924%; text-align: center;\">Análisis y conclusiones (preguntas guiadas) </td>\n<td style=\"width: 19.9924%; text-align: center;\">4.1. Utilizar recursos variados, tradicionales y digitales, mejorando el aprendizaje autónomo y para mejorar la interacción con otros miembros de la comunidad educativa, con respeto hacia docentes y estudiantes y analizando críticamente las aportaciones de cada participante.</td>\n<td style=\"width: 19.9924%; text-align: center;\">Parejas </td>\n<td style=\"width: 19.9924%; text-align: center;\">1 sesión </td>\n<td style=\"width: 19.9924%; text-align: center;\">Documento Digital</td>\n</tr>\n<tr>\n<td style=\"width: 19.9924%; text-align: center;\">Producto final: creación de póster o presentación </td>\n<td style=\"width: 19.9924%; text-align: center;\">4.2 Trabajar de forma adecuada y versátil con medios variados, tradicionales y digitales, en la consulta de \n<p>información y la creación de contenidos, seleccionando con criterio las fuentes más fiables y desechando las menos adecuadas para la mejora del aprendizaje propio y colectivo. </p>\n<p><br /></p>\n</td>\n<td style=\"width: 19.9924%; text-align: center;\">Gran grupo </td>\n<td style=\"width: 19.9924%; text-align: center;\">1 sesión </td>\n<td style=\"width: 19.9924%; text-align: center;\">Canva </td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>\n<p>Esta organización permite evaluar no solo el producto final, sino también el proceso de aprendizaje del alumnado, teniendo en cuenta el uso de herramientas digitales, la interpretación de datos y el trabajo colaborativo.</p>\n<p><a href=\"https://docs.google.com/document/d/1AQ3PjXjPC87L-KKBZ9FBA5QJfiOH34CFSCCe8sq3uSU/edit?tab=t.0#heading=h.d3owelm5qoq0\" title=\"Documento completo\">https://docs.google.com/document/d/1AQ3PjXjPC87L-KKBZ9FBA5QJfiOH34CFSCCe8sq3uSU/edit?tab=t.0#heading=h.d3owelm5qoq0</a></p>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-tpr4ckl05</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización (línea temporal)</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización (línea temporal)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización (línea temporal)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Organización (línea temporal)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>organizacion-linea-temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-tpr4ckl05</odePageId>
+      <odeBlockId>block-1777967422317-ms1rjqgz0</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-tpr4ckl05</odePageId>
+          <odeBlockId>block-1777967422317-ms1rjqgz0</odeBlockId>
+          <odeIdeviceId>idevice-1777967422310-a78w7r1cz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se presenta la línea temporal del proyecto, donde se recogen las diferentes sesiones, tareas, agrupamientos y herramientas que utilizará el alumnado.</p>
+<p>Esta organización permite tener una visión global del proceso de aprendizaje y facilita el seguimiento de las actividades.</p>
+<p>La planificación es flexible y puede adaptarse en función del ritmo del grupo, la disponibilidad de recursos tecnológicos o posibles dificultades técnicas que puedan surgir en el aula.</p>
+<p></p>
+<p>Acceso a Canva:</p>
+<p><a href="https://canva.link/mm1p49mfgyv1uc5" title="">https://canva.link/mm1p49mfgyv1uc5</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777967422310-a78w7r1cz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se presenta la línea temporal del proyecto, donde se recogen las diferentes sesiones, tareas, agrupamientos y herramientas que utilizará el alumnado.</p>\n<p>Esta organización permite tener una visión global del proceso de aprendizaje y facilita el seguimiento de las actividades.</p>\n<p>La planificación es flexible y puede adaptarse en función del ritmo del grupo, la disponibilidad de recursos tecnológicos o posibles dificultades técnicas que puedan surgir en el aula.</p>\n<p></p>\n<p>Acceso a Canva:</p>\n<p><a href=\"https://canva.link/mm1p49mfgyv1uc5\" title=\"\">https://canva.link/mm1p49mfgyv1uc5</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-tpr4ckl05</odePageId>
+      <odeBlockId>block-1777967480692-fve9vvo1y</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-tpr4ckl05</odePageId>
+          <odeBlockId>block-1777967480692-fve9vvo1y</odeBlockId>
+          <odeIdeviceId>idevice-1777967480689-bnq0rrz1e</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777967480689-bnq0rrz1e" title="" href="{{context_path}}/content/resources/Línea temporal (1).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Línea temporal (1).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777967480689-bnq0rrz1e","img_0":{"img":"{{context_path}}/content/resources/Línea temporal (1).png","thumbnail":"{{context_path}}/content/resources/Línea temporal (1).png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-q29mqfz54</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-q29mqfz54</odePageId>
+      <odeBlockId>block-1777967692696-eqv0ftpqf</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-q29mqfz54</odePageId>
+          <odeBlockId>block-1777967692696-eqv0ftpqf</odeBlockId>
+          <odeIdeviceId>idevice-1777967692695-wszh4unms</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de esta situación de aprendizaje se realizará de forma continua, teniendo en cuenta tanto el proceso como el producto final del alumnado.</p>
+<p>Se utilizarán diferentes instrumentos de evaluación para recoger información sobre el aprendizaje y ofrecer retroalimentación.</p>
+<p>La rúbrica se utilizará para evaluar el producto final elaborado por el alumnado, teniendo en cuenta aspectos como:</p>
+<ul>
+<li>Interpretación de datos</li>
+<li>Representación gráfica</li>
+<li>Uso de herramientas digitales</li>
+<li>Trabajo en grupo</li>
+<li>Claridad en la comunicación.</li>
+</ul>
+<p>Permite valorar distintos niveles de desempeño y ofrecer una evaluación más objetiva y detallada.</p>
+<p>Puedes consultar la rúbrica. </p>
+<p></p>
+<p>Además se utilizará un cuestionario digital para evaluar la comprensión individual del alumnado sobre la ley de Hooke y el uso de los datos obtenidos durante el proyecto.</p>
+<p>Este instrumento permite:</p>
+<ul>
+<li>Comprobar la comprensión de los conceptos clave</li>
+<li>Detectar posibles dificultades</li>
+<li>Obtener información para mejorar el proceso de enseñanza</li>
+</ul>
+<p>Este cuestionario permitirá evaluar la comprensión individual del alumnado y recoger información sobre posibles dificultades, con el objetivo de adaptar la enseñanza y mejorar el aprendizaje.</p>
+<p>Link al cuestionario </p>
+<p><a href="https://forms.gle/f6ZTnArkChWtMecNA" title="Cuestionario">https://forms.gle/f6ZTnArkChWtMecNA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777967692695-wszh4unms","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de esta situación de aprendizaje se realizará de forma continua, teniendo en cuenta tanto el proceso como el producto final del alumnado.</p>\n<p>Se utilizarán diferentes instrumentos de evaluación para recoger información sobre el aprendizaje y ofrecer retroalimentación.</p>\n<p>La rúbrica se utilizará para evaluar el producto final elaborado por el alumnado, teniendo en cuenta aspectos como:</p>\n<ul>\n<li>Interpretación de datos</li>\n<li>Representación gráfica</li>\n<li>Uso de herramientas digitales</li>\n<li>Trabajo en grupo</li>\n<li>Claridad en la comunicación.</li>\n</ul>\n<p>Permite valorar distintos niveles de desempeño y ofrecer una evaluación más objetiva y detallada.</p>\n<p>Puedes consultar la rúbrica. </p>\n<p></p>\n<p>Además se utilizará un cuestionario digital para evaluar la comprensión individual del alumnado sobre la ley de Hooke y el uso de los datos obtenidos durante el proyecto.</p>\n<p>Este instrumento permite:</p>\n<ul>\n<li>Comprobar la comprensión de los conceptos clave</li>\n<li>Detectar posibles dificultades</li>\n<li>Obtener información para mejorar el proceso de enseñanza</li>\n</ul>\n<p>Este cuestionario permitirá evaluar la comprensión individual del alumnado y recoger información sobre posibles dificultades, con el objetivo de adaptar la enseñanza y mejorar el aprendizaje.</p>\n<p>Link al cuestionario </p>\n<p><a href=\"https://forms.gle/f6ZTnArkChWtMecNA\" title=\"Cuestionario\">https://forms.gle/f6ZTnArkChWtMecNA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-q29mqfz54</odePageId>
+      <odeBlockId>block-1777968530152-6rnix1ubb</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-q29mqfz54</odePageId>
+          <odeBlockId>block-1777968530152-6rnix1ubb</odeBlockId>
+          <odeIdeviceId>idevice-1777968530147-m4mi3jspi</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777968530147-m4mi3jspi" title="" href="{{context_path}}/content/resources/Rúbrica Ley de Hooke.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Rúbrica Ley de Hooke.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777968530147-m4mi3jspi","img_0":{"img":"{{context_path}}/content/resources/Rúbrica Ley de Hooke.jpg","thumbnail":"{{context_path}}/content/resources/Rúbrica Ley de Hooke.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ih-t7corru6u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>guia_didactica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ih-t7corru6u</odePageId>
+      <odeBlockId>block-1777969349865-e8kkgndc9</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ih-t7corru6u</odePageId>
+          <odeBlockId>block-1777969349865-e8kkgndc9</odeBlockId>
+          <odeIdeviceId>idevice-1777969349849-8lh3q5y9i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Guía didáctica del proyecto</h2>
+<p>Esta situación de aprendizaje está diseñada para el alumnado de 3º de ESO dentro de la materia de Física y Química, y se centra en el estudio de la ley de Hooke mediante el uso de metodologías activas y herramientas digitales.</p>
+<h3>Objetivos del proyecto</h3>
+<p>El principal objetivo es que el alumnado comprenda la relación entre fuerza y deformación, aplicando la ley de Hooke a través de la experimentación con simuladores digitales y el análisis de datos.</p>
+<p>Además, se busca desarrollar la competencia digital, el trabajo cooperativo y la capacidad de interpretar y comunicar información científica.</p>
+<h3>Metodología</h3>
+<p>Se utiliza una metodología activa basada en el aprendizaje cooperativo y el aprendizaje por descubrimiento.</p>
+<p>El alumnado trabajará en grupos, realizando actividades progresivas que incluyen:</p>
+<ul>
+<li>Uso de simuladores digitales</li>
+<li>Recogida y análisis de datos</li>
+<li>Representación gráfica</li>
+<li>Elaboración de un producto final digital</li>
+</ul>
+<h3>Organización del proyecto</h3>
+<p>El proyecto se desarrolla en varias sesiones organizadas de forma progresiva, comenzando con la exploración del fenómeno, pasando por el análisis de datos y finalizando con la comunicación de resultados.</p>
+<h3>Atención a la diversidad</h3>
+<p>Se han incorporado recursos digitales variados y apoyos visuales para atender a los diferentes niveles del alumnado.</p>
+<p>Además, el trabajo en grupo permite la ayuda entre iguales y la adaptación de las tareas según las necesidades del alumnado.</p>
+<h3>Uso de tecnologías digitales</h3>
+<p>Las tecnologías digitales se utilizan como herramienta de aprendizaje, no como un fin en sí mismas.</p>
+<p>Se emplean simuladores, hojas de cálculo, Canva y herramientas de curación de contenidos para facilitar la comprensión del contenido y el desarrollo de la competencia digital.</p>
+<h3>Evaluación</h3>
+<p>La evaluación es continua y formativa, teniendo en cuenta tanto el proceso como el producto final.</p>
+<p>Se utilizan como instrumentos:</p>
+<ul>
+<li>Rúbrica de evaluación</li>
+<li>Cuestionario digital (Google Forms)</li>
+</ul>
+<h3>Gestión de dificultades técnicas</h3>
+<p>En caso de problemas técnicos (falta de dispositivos, conexión inestable o fallos en los simuladores), se trabajará en parejas o grupos y se utilizarán alternativas offline o explicaciones guiadas por el docente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777969349849-8lh3q5y9i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Guía didáctica del proyecto</h2>\n<p>Esta situación de aprendizaje está diseñada para el alumnado de 3º de ESO dentro de la materia de Física y Química, y se centra en el estudio de la ley de Hooke mediante el uso de metodologías activas y herramientas digitales.</p>\n<h3>Objetivos del proyecto</h3>\n<p>El principal objetivo es que el alumnado comprenda la relación entre fuerza y deformación, aplicando la ley de Hooke a través de la experimentación con simuladores digitales y el análisis de datos.</p>\n<p>Además, se busca desarrollar la competencia digital, el trabajo cooperativo y la capacidad de interpretar y comunicar información científica.</p>\n<h3>Metodología</h3>\n<p>Se utiliza una metodología activa basada en el aprendizaje cooperativo y el aprendizaje por descubrimiento.</p>\n<p>El alumnado trabajará en grupos, realizando actividades progresivas que incluyen:</p>\n<ul>\n<li>Uso de simuladores digitales</li>\n<li>Recogida y análisis de datos</li>\n<li>Representación gráfica</li>\n<li>Elaboración de un producto final digital</li>\n</ul>\n<h3>Organización del proyecto</h3>\n<p>El proyecto se desarrolla en varias sesiones organizadas de forma progresiva, comenzando con la exploración del fenómeno, pasando por el análisis de datos y finalizando con la comunicación de resultados.</p>\n<h3>Atención a la diversidad</h3>\n<p>Se han incorporado recursos digitales variados y apoyos visuales para atender a los diferentes niveles del alumnado.</p>\n<p>Además, el trabajo en grupo permite la ayuda entre iguales y la adaptación de las tareas según las necesidades del alumnado.</p>\n<h3>Uso de tecnologías digitales</h3>\n<p>Las tecnologías digitales se utilizan como herramienta de aprendizaje, no como un fin en sí mismas.</p>\n<p>Se emplean simuladores, hojas de cálculo, Canva y herramientas de curación de contenidos para facilitar la comprensión del contenido y el desarrollo de la competencia digital.</p>\n<h3>Evaluación</h3>\n<p>La evaluación es continua y formativa, teniendo en cuenta tanto el proceso como el producto final.</p>\n<p>Se utilizan como instrumentos:</p>\n<ul>\n<li>Rúbrica de evaluación</li>\n<li>Cuestionario digital (Google Forms)</li>\n</ul>\n<h3>Gestión de dificultades técnicas</h3>\n<p>En caso de problemas técnicos (falta de dispositivos, conexión inestable o fallos en los simuladores), se trabajará en parejas o grupos y se utilizarán alternativas offline o explicaciones guiadas por el docente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moqzk8ii-ip36ym9hw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value>creditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moqzk8ii-ip36ym9hw</odePageId>
+      <odeBlockId>block-1777969869928-8yv370kg0</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moqzk8ii-ip36ym9hw</odePageId>
+          <odeBlockId>block-1777969869928-8yv370kg0</odeBlockId>
+          <odeIdeviceId>idevice-1777969869925-dzl8kdsew</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Créditos</h2>
+<p><strong>Autoría:</strong> Clara Calvo Garrido</p>
+<p><strong>Título del proyecto:</strong> La fuerza invisible: explorando la Ley de Hooke</p>
+<p><strong>Descripción:</strong> Situación de aprendizaje para 3º de ESO en la materia de Física y Química centrada en el estudio de la Ley de Hooke mediante el uso de simuladores digitales, herramientas de análisis de datos y recursos digitales colaborativos.</p>
+<p><strong>Licencia de uso:</strong> Creative Commons BY-SA</p>
+<p><strong>Herramienta de creación:</strong> eXeLearning 3</p>
+<p><strong>Recursos utilizados:</strong> simuladores digitales, Canva, Google Forms, hojas de cálculo y materiales educativos digitales de libre uso.</p>
+<p><br /></p>
+<p><br /></p>
+<p><strong>Descarga del archivo editable:</strong> <a href="https://drive.google.com/drive/folders/1rw0Q5OuePWv1Ztv_G_cbAFUBX_8eEK2X?usp=sharing" target="_blank" rel="noopener">Acceder al archivo editable del proyecto</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777969869925-dzl8kdsew","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Créditos</h2>\n<p><strong>Autoría:</strong> Clara Calvo Garrido</p>\n<p><strong>Título del proyecto:</strong> La fuerza invisible: explorando la Ley de Hooke</p>\n<p><strong>Descripción:</strong> Situación de aprendizaje para 3º de ESO en la materia de Física y Química centrada en el estudio de la Ley de Hooke mediante el uso de simuladores digitales, herramientas de análisis de datos y recursos digitales colaborativos.</p>\n<p><strong>Licencia de uso:</strong> Creative Commons BY-SA</p>\n<p><strong>Herramienta de creación:</strong> eXeLearning 3</p>\n<p><strong>Recursos utilizados:</strong> simuladores digitales, Canva, Google Forms, hojas de cálculo y materiales educativos digitales de libre uso.</p>\n<p><br /></p>\n<p><br /></p>\n<p><strong>Descarga del archivo editable:</strong> <a href=\"https://drive.google.com/drive/folders/1rw0Q5OuePWv1Ztv_G_cbAFUBX_8eEK2X?usp=sharing\" target=\"_blank\" rel=\"noopener\">Acceder al archivo editable del proyecto</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
